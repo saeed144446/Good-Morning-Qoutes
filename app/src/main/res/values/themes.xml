@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GoodMorningQouts" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">#A6A4A4</item>
+    </style>
+
+    <style name="Theme.GoodMorningQouts" parent="Base.Theme.GoodMorningQouts" />
+</resources>
